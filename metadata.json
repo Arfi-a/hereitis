@@ -1,0 +1,6 @@
+{
+  "name": "Sanad ER Command Center",
+  "description": "Real-time emergency department operational intelligence, triage flow, bed tracking, and resource coordination for UAE healthcare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
